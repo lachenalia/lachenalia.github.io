@@ -1,0 +1,19 @@
+[
+  
+  {
+    "title": "실전 시계열 분석(Practical Time Series Analysis)",
+    "url": "/posts/practical-time-series-analysis/",
+    "categories": "인공지능, 시계열분석",
+    "tags": "시계열",
+    "date": "2021-06-02 04:44:12 +0900",
+    
+
+
+
+
+
+    "snippet": "Practical Time Series AnalysisCHAPTER 1. 시계열의 개요와 역사시계열 분석(time series analysis)시간 순서대로 정렬된 데이터에서 의미 있는 요약과 통계 정보를 추출하기 위한 노력.과거 행동을 진단할 뿐만 아니라 미래 행동을 예측하기 위해 시계열 분석을 수행한다.1.1 다양한 응용 분야의 시계열 역사‘과거가 미래에 어떤 영향을 주는가?’  시계열 문제로서의 의학  일기예보  경제성장 예측  천문학1.2 시계열 분석의 도약1.3 통계적 시계열 분석의 기원1.4 머신러닝 시계열 분석의 ..."
+  }
+  
+]
+

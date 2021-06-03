@@ -1,0 +1,86 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://lachenalia.github.io/</id>
+  <title>Lachenalia's Note</title>
+  <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
+  <updated>2021-06-03T22:04:25+09:00</updated>
+  <author>
+    <name>lachenalia</name>
+    <uri>https://lachenalia.github.io/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://lachenalia.github.io/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en-US"
+    href="https://lachenalia.github.io/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator>
+  <rights> © 2021 lachenalia </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>실전 시계열 분석(Practical Time Series Analysis)</title>
+    <link href="https://lachenalia.github.io/posts/practical-time-series-analysis/" rel="alternate" type="text/html" title="실전 시계열 분석(Practical Time Series Analysis)" />
+    <published>2021-06-02T04:44:12+09:00</published>
+  
+    <updated>2021-06-02T04:44:12+09:00</updated>
+  
+    <id>https://lachenalia.github.io/posts/practical-time-series-analysis/</id>
+    <content src="https://lachenalia.github.io/posts/practical-time-series-analysis/" />
+    <author>
+      <name>lachenalia</name>
+    </author>
+
+  
+    
+    <category term="인공지능" />
+    
+    <category term="시계열분석" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Practical Time Series Analysis
+
+CHAPTER 1. 시계열의 개요와 역사
+
+시계열 분석(time series analysis)
+
+시간 순서대로 정렬된 데이터에서 의미 있는 요약과 통계 정보를 추출하기 위한 노력.
+과거 행동을 진단할 뿐만 아니라 미래 행동을 예측하기 위해 시계열 분석을 수행한다.
+
+1.1 다양한 응용 분야의 시계열 역사
+
+‘과거가 미래에 어떤 영향을 주는가?’
+
+
+  시계열 문제로서의 의학
+  일기예보
+  경제성장 예측
+  천문학
+
+
+1.2 시계열 분석의 도약
+1.3 통계적 시계열 분석의 기원
+1.4 머신러닝 시계열 분석의 기원
+1.5 보충자료
+
+CHAPTER 2. 시계열 데이터의 발견 및 다루기
+CHAPTER 3. 시계열의 탐색적 자료 분석
+CHAPTER 4....
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
